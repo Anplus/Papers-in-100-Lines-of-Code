@@ -1,4 +1,4 @@
-![my badge](https://badgen.net/badge/Papers%20implemented/31)
+![my badge](https://badgen.net/badge/Papers%20implemented/39)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/blob/master/README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
@@ -43,6 +43,11 @@ Implementation of papers in 100 lines of code.
 - *Laurent Dinh, David Krueger, Yoshua Bengio*
 - `2014-10-30`
 
+##### [Deep Unsupervised Learning using Nonequilibrium Thermodynamics]
+- Deep Unsupervised Learning using Nonequilibrium Thermodynamics [[arXiv]](https://arxiv.org/abs/1503.03585)
+- *Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli*
+- `2015-03-12`
+
 ##### [Variational Inference with Normalizing Flows]
 - Variational Inference with Normalizing Flows [[arXiv]](https://arxiv.org/abs/1505.05770)
 - *Danilo Jimenez Rezende, Shakir Mohamed*
@@ -53,6 +58,11 @@ Implementation of papers in 100 lines of code.
 - *Alec Radford, Luke Metz, Soumith Chintala*
 - `2015-11-19`
 
+##### [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)]
+- Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs) [[arXiv]](https://arxiv.org/abs/1511.07289)
+- *Djork-Arné Clevert, Thomas Unterthiner, Sepp Hochreiter*
+- `2015-11-23`
+
 ##### [Adversarially Learned Inference]
 - Adversarially Learned Inference [[arXiv]](https://arxiv.org/abs/1606.00704)
 - *Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville*
@@ -62,6 +72,11 @@ Implementation of papers in 100 lines of code.
 - Improved Techniques for Training GANs [[arXiv]](https://arxiv.org/abs/1606.03498)
 - *Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen*
 - `2016-06-10`
+
+##### [Gaussian Error Linear Units (GELUs)]
+- Gaussian Error Linear Units (GELUs) [[arXiv]](https://arxiv.org/abs/1606.08415)
+- *Dan Hendrycks, Kevin Gimpel*
+- `2016-06-27`
 
 ##### [Least Squares Generative Adversarial Networks]
 - Least Squares Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.04076)
@@ -77,6 +92,16 @@ Implementation of papers in 100 lines of code.
 - Adversarial Feature Learning [[arXiv]](https://arxiv.org/abs/1605.09782)
 - *Jeff Donahue, Philipp Krähenbühl, Trevor Darrell*
 - `2017-04-03`
+
+##### [Self-Normalizing Neural Networks]
+- Self-Normalizing Neural Networks [[arXiv]](https://arxiv.org/abs/1706.02515)
+- *Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter*
+- `2017-06-08`
+
+##### [Deep Image Prior]
+- Deep Image Prior [[arXiv]](https://arxiv.org/abs/1711.10925)
+- *Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky*
+- `2017-11-29`
 
 ##### [On First-Order Meta-Learning Algorithms]
 - On First-Order Meta-Learning Algorithms [[arXiv]](https://arxiv.org/abs/1803.02999)
@@ -108,6 +133,11 @@ Implementation of papers in 100 lines of code.
 - *Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng*
 - `2020-06-18`
 
+##### [Denoising Diffusion Probabilistic Models]
+- Denoising Diffusion Probabilistic Models [[arXiv]](https://arxiv.org/abs/2006.11239)
+- *Jonathan Ho, Ajay Jain, Pieter Abbeel*
+- `2020-06-19`
+
 ##### [Likelihood-free MCMC with Amortized Approximate Ratio Estimators]
 - Likelihood-free MCMC with Amortized Approximate Ratio Estimators [[PMLR]](http://proceedings.mlr.press/v108/lorraine20a)
 - *Joeri Hermans, Volodimir Begy, Gilles Louppe*
@@ -122,6 +152,11 @@ Implementation of papers in 100 lines of code.
 - Multiplicative Filter Networks [[OpenReview]](https://openreview.net/forum?id=OmtmcPkkhT)
 - *Rizal Fathony, Anit Kumar Sahu, Devin Willmott, J Zico Kolter*
 - `2020-09-28`
+
+##### [Learned Initializations for Optimizing Coordinate-Based Neural Representations]
+- Learned Initializations for Optimizing Coordinate-Based Neural Representations [[arXiv]](https://arxiv.org/abs/2012.02189)
+- *Matthew Tancik, Ben Mildenhall, Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, Jonathan T. Barron, Ren Ng*
+- `2020-12-03`
 
 ##### [FastNeRF: High-Fidelity Neural Rendering at 200FPS]
 - FastNeRF: High-Fidelity Neural Rendering at 200FPS [[arXiv]](https://arxiv.org/abs/2103.10380)
@@ -147,6 +182,11 @@ Implementation of papers in 100 lines of code.
 - Gromov-Wasserstein Distances between Gaussian Distributions [[arXiv]](https://arxiv.org/abs/2104.07970)
 - *Antoine Salmona, Julie Delon, Agnès Desolneux*
 - `2021-08-16`
+
+##### [Plenoxels: Radiance Fields without Neural Networks]
+- Plenoxels: Radiance Fields without Neural Networks [[arXiv]](https://arxiv.org/abs/2112.05131)
+- *Alex Yu, Sara Fridovich-Keil, Matthew Tancik, Qinhong Chen, Benjamin Recht, Angjoo Kanazawa*
+- `2021-12-09`
 
 ##### [InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering]
 - InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering [[arXiv]](https://arxiv.org/abs/2112.15399)
